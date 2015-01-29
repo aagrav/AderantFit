@@ -1,0 +1,10 @@
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\bin\Debug\AderantFit.exe.config
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\bin\Debug\AderantFit.exe
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\bin\Debug\AderantFit.pdb
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\obj\Debug\AderantFit.AderantFitLogin.resources
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\obj\Debug\AderantFit.AderantFitBaseForm.resources
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\obj\Debug\AderantFit.BaseInputModal.resources
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\obj\Debug\AderantFit.Properties.Resources.resources
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\obj\Debug\AderantFit.csproj.GenerateResource.Cache
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\obj\Debug\AderantFit.exe
+C:\Users\aylwin.agraviador\Documents\Visual Studio 2012\Projects\AderantFit\AderantFit\obj\Debug\AderantFit.pdb
